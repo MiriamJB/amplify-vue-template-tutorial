@@ -1,5 +1,7 @@
 ## AWS Amplify Vue.js Starter Template
 
+VIDEO TUTORIAL: https://www.youtube.com/watch?v=7-7ugqAxgxI
+
 This repository provides a starter template for creating applications using Vue.js and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
 ## Overview
